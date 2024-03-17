@@ -1,0 +1,5 @@
+package fmath:component;
+
+world fmath {
+    export add: func(x: s32, y: s32) -> s32;
+}
